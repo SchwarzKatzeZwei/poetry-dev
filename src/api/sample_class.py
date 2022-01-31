@@ -9,21 +9,20 @@
 
 
 class SampleClass:
-    """[summary]"""
+    """サンプルクラス"""
 
     def __init__(self, name):
         self.name = name
 
     @staticmethod
     def leepyear(year: str) -> bool:
-        """[summary]
+        """閏年判定
 
         Args:
-            year (str): [description]
-            year (str): [description]
+            year (str): 西暦
 
         Returns:
-            bool: [description]
+            bool: 閏年ならTrue
         """
         if year % 4 == 0 and year % 100 != 0 or year % 400 == 0:
             return True
@@ -31,12 +30,5 @@ class SampleClass:
             return False
 
     def hello(self) -> None:
-        """[summary]
-
-        Args:
-            なし
-
-        Returns:
-            なし
-        """
+        """Hello, world!"""
         print("Hello, " + self.name)

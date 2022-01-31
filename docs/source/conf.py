@@ -29,6 +29,7 @@ extensions = [
     "sphinx.ext.todo",
     "sphinx.ext.viewcode",
     "sphinx.ext.napoleon",
+    "sphinx.ext.duration",
     "nbsphinx",
     "sphinx.ext.mathjax",
     "sphinx_markdown_tables",
@@ -87,7 +88,7 @@ html_search_language = "ja"
 html_static_path = ["_static"]
 
 # furo settings
-html_title = "poetry-sample"
+html_title = "○○プロジェクト"
 html_logo = "logo.png"
 html_theme_options = {
     "sidebar_hide_name": False,

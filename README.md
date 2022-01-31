@@ -1,10 +1,26 @@
 # poetry-sample
 
-## 既存プロジェクトへの poetry の導入
+## poetry インストール
+
+1. pyenvと連携する場合
+
+   [Poetry documentation](https://cocoatomo.github.io/poetry-ja/)
+
+   プロジェクトディレクトリにて`pyenv local 3.x.x`と実行して使う。
+
+2. anacondaと連携する場合
+
+   ```sh
+   conda install poetry
+   ```
+
+   `conda activate xxx`と実行して使う
+
+## 環境準備
 
 ```sh
 git clone https://github.com/SchwarzKatzeZwei/poetry-sample.git
-poetry config virtualenvs.in-project true
+poetry config virtualenvs.in-project true  # 仮想環境をプロジェクトディレクトリ内で構築
 poetry init
 poetry install
 ```
@@ -39,6 +55,5 @@ make html # build
 make livehtml # auto build
 ```
 
-### Reference
-
-<https://pradyunsg.me/furo/reference/>
+> Furo Theme Reference  
+> <https://pradyunsg.me/furo/reference/>

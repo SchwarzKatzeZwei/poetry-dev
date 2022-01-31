@@ -1,0 +1,33 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1281px" height="801px" viewBox="-0.5 -0.5 1281 801" content="&lt;mxfile&gt;&lt;diagram id=&quot;gjZu_5eqK4aIjgJCnbsu&quot; name=&quot;ページ1&quot;&gt;lZQ9c4MwDIZ/jcfegU34GIGQdOmUobMPHOBqMDUmQH99DYgAB7lrWSw/krCk14BIWHRXSavsQySMI2wkHSJnhLFpuEQvA+kn4lrOBFKZJxC0gFv+w+ZMoE2esHoTqITgKq+2MBZlyWK1YVRK0W7D7oJvT61oynbgFlO+p595ojKgpu0tjneWpxkc7WLor6BzMHRSZzQR7QqRCJFQCqEmq+hCxofhzXOZ8i4vvM/CJCvVXxLwlPCgvIHeoC7Vz81K0ZQJG+INRII2yxW7VTQevK2WV7NMFVzvTG3ec85DwYUcc8llfDTf1wWlPphUrFshqPPKRMGU7HUIeC0YWb/dtisBsAswWw/fAEhB9fT56mUw2oDZHM+JHMzJ5mroWOiO1gOzvxsxO97q8e76OsAyqm5xaisd18hBnoUCbXjIOyMfo4gg/X344Whg5FuzgWfDhhjXRdEJeQEKyFyN7mMqCF7/Wkzz32LaBvVMBzpb8fv4aF4rKb7YyoPPjm0Yzzp2Wh/ciNfyn7b6E3N/AYh3oL/p/V9/vV2+wdG3+pOR6Bc=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="1280" height="800" fill="#ffffff" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="410" y="270" width="390" height="190" rx="28.5" ry="28.5" fill="#60a917" stroke="#2d7600" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 388px; height: 1px; padding-top: 365px; margin-left: 411px;">
+                        <div data-drawio-colors="color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font style="font-size: 40px">
+                                    画面レイアウト図
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="605" y="369" fill="#ffffff" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    画面レイアウト図
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
